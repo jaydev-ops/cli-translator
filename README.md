@@ -1,5 +1,3 @@
-:::writing{variant=“standard” id=“readme2”}
-
 CLI Translator
 
 Convert plain English instructions into terminal commands using a local LLM.
