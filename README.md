@@ -2,7 +2,13 @@ CLI Translator
 
 Convert plain English instructions into terminal commands using a local LLM.
 
+
 > Natural language → terminal command interface powered by a local LLM
+
+## HOW SIMPLY IT WORKS AND INTEGRATES IN YOUR WORKFLOW
+# Demo
+
+![CLI Demo](assets/demo.png)
 
 ⸻
 
