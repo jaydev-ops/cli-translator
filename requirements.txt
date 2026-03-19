@@ -1,0 +1,5 @@
+# No Python dependencies required
+# Requires:
+# - curl
+# - meta llama 8.31b instruct model
+# - LM Studio running locally

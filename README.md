@@ -2,9 +2,13 @@ CLI Translator
 
 Convert plain English instructions into terminal commands using a local LLM.
 
+> Natural language → terminal command interface powered by a local LLM
+
 ⸻
 
 Overview
+
+This project explores replacing rigid command syntax with intent-driven interfaces using local AI systems.
 
 CLI Translator is a developer tool designed for beginners who struggle to remember terminal commands.
 
@@ -47,10 +51,10 @@ Features
 
 ⸻
 
-Usage
-ask create a new folder
-Output:
+```bash
+$ ask create a new folder
 mkdir new_folder
+```
 
 ⸻
 
