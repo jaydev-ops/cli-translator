@@ -26,6 +26,6 @@ pip install -r requirements.txt
 
 ⸻
 
-6. Add this code to ur Zshrc
+6. Add the code to ur Zshrc
 from the main.py
 ## make sure to add and replace the link and model name with ur own link and model info in the code 
